@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+.nav {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.nav a {
+  margin-right: 2em;
+}
+
+body {
+  margin: 3em;
+}
